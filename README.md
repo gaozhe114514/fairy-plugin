@@ -3,7 +3,6 @@
 把《绝区零》里 H.D.D. 的 AI「Fairy」搬进 DeepSeek Harness 的 Web 界面：**皮肤 + 开屏动画 + 可选的人设预设 + 可选的本地语音朗读**。
 
 > 非官方同人作品。角色与相关设定版权归 miHoYo / 米哈游所有，本仓库不含任何游戏资源文件。
-> ![Uploading image.png…]()
 
 
 ## 功能
