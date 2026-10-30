@@ -1,0 +1,10 @@
+node_modules/
+assets/orb.jpg
+assets/*.png
+assets/*.jpg
+fairy-voice/
+out/
+*.wav
+*.ckpt
+*.pth
+.DS_Store
